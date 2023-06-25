@@ -128,7 +128,7 @@ main h2{
 }
 }*/
 
-@media (min-width:800px){
+@media (max-width:1000px) and (min-width: 600px){
 
     aside, main {
         
